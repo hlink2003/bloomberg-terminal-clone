@@ -1,6 +1,6 @@
 Building my own Bloomberg terminal README
 # Bloomberg Terminal Personal Project
-Luther Terminal(assets/screenshots/main_dashboard.png)
+All contents are within the folder. Luther Terminal(assets/screenshots/main_dashboard.png)
 
 ## Features
 
